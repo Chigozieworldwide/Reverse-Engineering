@@ -1,6 +1,6 @@
 DECODED BY CHIGOZIEWORLDWIDE
 
-Error Fixed😎
+Error Fixed🖕
 import os, re, sys, time, json, random, requests
 from concurrent.futures import ThreadPoolExecutor
 from requests.exceptions import ConnectionError
