@@ -1,3 +1,6 @@
+DECODED BY CHIGOZIEWORLDWIDE
+
+Error Fixed😎
 import os, re, sys, time, json, random, requests
 from concurrent.futures import ThreadPoolExecutor
 from requests.exceptions import ConnectionError
@@ -54,7 +57,7 @@ def ___login___():
 # Follow Cookie
 def ___follow___():
     try:
-        ___cookie = open('Data/coki.txt', 'r').read()
+      
         ___session = re.search('sessionid=(.*?);', ___cookie)
         ___teks = random.choice(['Hallo Everyone','my name is','mark cornel','im a','Programmer','you can give me','credit for this tool','thanks'])
         ___data = {'comment_text': ___teks,'replied_to_comment_id':''}
