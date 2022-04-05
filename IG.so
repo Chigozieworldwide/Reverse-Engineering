@@ -1,6 +1,7 @@
 DECODED BY CHIGOZIEWORLDWIDE
 
 Error Fixed🖕
+
 import os, re, sys, time, json, random, requests
 from concurrent.futures import ThreadPoolExecutor
 from requests.exceptions import ConnectionError
@@ -35,8 +36,7 @@ ___logo___ = (f"""{M}
 {B}[{P}>{B}]{P} {H}WA {P}: {H}+2347013107449
 {B}[{P}\x1b[1;92mâ ââ{B}]{M}\x1b[1;93mââââââââââââââââââââââââââââââââââââââ{P}
 """)
-# Login Cookie
-def ___login___():
+# Login Cookie:
     os.system('clear')
     print(___logo___)
     print(f"{B}[{P}\x1b[1;92mâ{B}]{P} {H}Enter Instagram Cookies, You Can't? Type{M}[{P}{K}Open{M}]{P}\n")
@@ -425,3 +425,5 @@ class ___crack___:
 if __name__=='__main__':
     os.system('git pull')
     ___menu___()
+
++80czXkCJPDo2YThk
